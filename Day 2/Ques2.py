@@ -1,0 +1,7 @@
+COMPANY_NAME = "ABC Technologies"
+FOUNDING_YEAR = 2010
+GST_RATE = 18
+
+print(COMPANY_NAME)
+print(FOUNDING_YEAR)
+print(f"{GST_RATE}%")
